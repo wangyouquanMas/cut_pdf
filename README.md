@@ -1,8 +1,8 @@
-PDF Page Extractor
+# PDF Page Extractor
 
 This script uses the PyPDF2 library to extract specific page ranges from a PDF file.
 
-Installation
+# Installation
 
 To run this script, you need to have Python installed. You can download it from the official Python website: Python Downloads
 
@@ -10,7 +10,7 @@ You also need to install the PyPDF2 library. You can install it using pip by run
 
 pip install PyPDF2
 
-Usage
+# Usage
 
 To use this script, follow these steps:
 
